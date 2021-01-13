@@ -1,4 +1,4 @@
-NLP
+Detecting Duplicate Question Pairs in Quora (Natural Language Processing)
 
 References:
 1. LSTM: https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07
